@@ -100,6 +100,16 @@ PR's welcome for all edits or new projects.
 
 ## Influenced by Plan9
 
+### Editors
+
+* [sam](https://github.com/deadpixi/sam) - A fork of the unix sam(1) and samterm(1) with extensive extensibility
+* [editor](https://github.com/jmigpin/editor) - An acme-inspired, full-featured, editor in Go
+* [acme2k](https://github.com/karahobny/acme2k) - An acme-inspired geared towards easy configurability
+
+### Utilities
+
+* [mk](https://github.com/dcjones/mk) - A rewrite and partial re-imagining of mk(1) in Go
+
 ### Kernels
 
 * [plan_rust](https://github.com/TheEnbyperor/plan_rust) - Plan9-influenced kernel in Rust
