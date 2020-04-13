@@ -74,7 +74,7 @@ PR's welcome for all edits or new projects.
 
 ### Graphics
 
-* [whiteboardfs](https://git.sr.ht/~amavect/whiteboardfs) - A collaborative drawing file system.
+* [whiteboardfs](https://git.sr.ht/~amavect/whiteboardfs) - A collaborative drawing file system
 
 ### Audio/music
 
@@ -92,6 +92,7 @@ PR's welcome for all edits or new projects.
 * [Tcl](https://9p.io/sources/contrib/fgb/root/sys/src/cmd/tcl/) - Tcl port by fgb
 * [TinyScheme](https://download.sourceforge.net/tinyscheme/tinyscheme-1.41.tar.gz) - TinyScheme
 * [Myrddin](https://bitbucket.org/oridb/mc) - Systems language by Ori Bernstein
+* [Idris 2](https://github.com/ftrvxmtrx/idris2) - A dependently typed programming language
 
 ## Libraries
 
