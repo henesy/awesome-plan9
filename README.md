@@ -66,6 +66,7 @@ PR's welcome for all edits or new projects.
 ### Utilities
 
 * [disco](https://bitbucket.org/henesy/disco) - Discord client
+* [git9](https://github.com/oridb/git9) - Git implementation
 
 ### Editors
 
