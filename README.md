@@ -72,6 +72,14 @@ PR's welcome for all edits or new projects.
 
 * [9vim](https://vmsplice.net/9vim.html) - A port of vim to Plan9
 
+### Graphics
+
+* [whiteboardfs](https://git.sr.ht/~amavect/whiteboardfs) - A collaborative drawing file system.
+
+### Audio/music
+
+* [zuke](https://github.com/ftrvxmtrx/zuke) - Music player
+
 ### Languages
 
 *Languages which are known to be buildable/operational on Plan9.*
@@ -88,6 +96,7 @@ PR's welcome for all edits or new projects.
 ## Libraries
 
 * [libtheme](https://bitbucket.org/mischief/libtheme) - A theming library for the plan 9 graphics system
+* [libtags](https://github.com/ftrvxmtrx/libtags) - A cross-platform library for reading tags
 
 ## Forks
 
