@@ -67,7 +67,7 @@ PR's welcome for all edits or new projects.
 
 * [disco](https://bitbucket.org/henesy/disco) - Discord client
 * [git9](https://github.com/oridb/git9) - Git implementation
-* [unionfs](https://github.com/okvik/unionfs) - deep union file server
+* [unionfs](https://github.com/okvik/unionfs) - Deep union file server
 
 ### Editors
 
@@ -81,7 +81,7 @@ PR's welcome for all edits or new projects.
 
 * [zuke](https://github.com/ftrvxmtrx/zuke) - Music player
 * [mpl](https://github.com/majiru/mpl) - Music Player
-* [ytfs](https://github.com/majiru/ytfs) - file system for playing youtube audio
+* [ytfs](https://github.com/majiru/ytfs) - File system for playing youtube audio
 
 ### Languages
 
