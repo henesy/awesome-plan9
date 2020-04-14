@@ -67,6 +67,7 @@ PR's welcome for all edits or new projects.
 
 * [disco](https://bitbucket.org/henesy/disco) - Discord client
 * [git9](https://github.com/oridb/git9) - Git implementation
+* [unionfs](https://github.com/okvik/unionfs) - deep union file server
 
 ### Editors
 
@@ -79,6 +80,8 @@ PR's welcome for all edits or new projects.
 ### Audio/music
 
 * [zuke](https://github.com/ftrvxmtrx/zuke) - Music player
+* [mpl](https://github.com/majiru/mpl) - Music Player
+* [ytfs](https://github.com/majiru/ytfs) - file system for playing youtube audio
 
 ### Languages
 
@@ -116,6 +119,7 @@ PR's welcome for all edits or new projects.
 * [sam](https://github.com/deadpixi/sam) - A fork of the unix sam(1) and samterm(1) with extensive extensibility
 * [editor](https://github.com/jmigpin/editor) - An acme-inspired, full-featured, editor in Go
 * [acme2k](https://github.com/karahobny/acme2k) - An acme-inspired geared towards easy configurability
+* [edwood](https://github.com/rjkroege/edwood) - An acme-inspired editor in Go
 
 ### Utilities
 
