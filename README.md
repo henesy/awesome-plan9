@@ -82,6 +82,7 @@ PR's welcome for all edits or new projects.
 * [zuke](https://github.com/ftrvxmtrx/zuke) - Music player
 * [mpl](https://github.com/majiru/mpl) - Music Player
 * [ytfs](https://github.com/majiru/ytfs) - File system for playing youtube audio
+* [orca](https://github.com/ftrvxmtrx/orca9) - Live Programming Environment
 
 ### Languages
 
@@ -101,6 +102,7 @@ PR's welcome for all edits or new projects.
 
 * [libtheme](https://bitbucket.org/mischief/libtheme) - A theming library for the plan 9 graphics system
 * [libtags](https://github.com/ftrvxmtrx/libtags) - A cross-platform library for reading tags
+* [microui](https://github.com/ftrvxmtrx/microui) - Tiny immediate-mode UI library
 
 ## Forks
 
@@ -124,6 +126,10 @@ PR's welcome for all edits or new projects.
 ### Utilities
 
 * [mk](https://github.com/dcjones/mk) - A rewrite and partial re-imagining of mk(1) in Go
+
+### Libraries
+
+* [c9](https://github.com/ftrvxmtrx/c9) - A low-lever 9p client and server implementation
 
 ### Kernels
 
