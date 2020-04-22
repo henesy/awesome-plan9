@@ -68,6 +68,7 @@ PR's welcome for all edits or new projects.
 * [disco](https://bitbucket.org/henesy/disco) - Discord client
 * [git9](https://github.com/oridb/git9) - Git implementation
 * [unionfs](https://github.com/okvik/unionfs) - Deep union file server
+* [xmpp](https://github.com/ftrvxmtrx/xmpp) - XMPP client
 
 ### Editors
 
