@@ -98,6 +98,7 @@ PR's welcome for all edits or new projects.
 * [TinyScheme](https://download.sourceforge.net/tinyscheme/tinyscheme-1.41.tar.gz) - TinyScheme
 * [Myrddin](https://bitbucket.org/oridb/mc) - Systems language by Ori Bernstein
 * [Idris 2](https://github.com/ftrvxmtrx/idris2) - A dependently typed programming language
+* [fe](https://github.com/ftrvxmtrx/fe) - A tiny, embeddable Lisp-like language
 
 ## Libraries
 
