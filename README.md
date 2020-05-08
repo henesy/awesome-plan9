@@ -68,7 +68,7 @@ PR's welcome for all edits or new projects.
 * [disco](https://bitbucket.org/henesy/disco) - Discord client
 * [git9](https://github.com/oridb/git9) - Git implementation
 * [unionfs](https://github.com/okvik/unionfs) - Deep union file server
-* [xmpp](https://github.com/ftrvxmtrx/xmpp) - XMPP client
+* [xmpp](https://git.sr.ht/~ft/xmpp) - XMPP client
 
 ### Editors
 
@@ -80,10 +80,10 @@ PR's welcome for all edits or new projects.
 
 ### Audio/music
 
-* [zuke](https://github.com/ftrvxmtrx/zuke) - Music player
+* [zuke](https://git.sr.ht/~ft/zuke) - Music player
 * [mpl](https://github.com/majiru/mpl) - Music Player
 * [ytfs](https://github.com/majiru/ytfs) - File system for playing youtube audio
-* [orca](https://github.com/ftrvxmtrx/orca9) - Live Programming Environment
+* [orca](https://git.sr.ht/~ft/orca) - Live Programming Environment
 
 ### Languages
 
@@ -97,14 +97,14 @@ PR's welcome for all edits or new projects.
 * [Tcl](https://9p.io/sources/contrib/fgb/root/sys/src/cmd/tcl/) - Tcl port by fgb
 * [TinyScheme](https://download.sourceforge.net/tinyscheme/tinyscheme-1.41.tar.gz) - TinyScheme
 * [Myrddin](https://bitbucket.org/oridb/mc) - Systems language by Ori Bernstein
-* [Idris 2](https://github.com/ftrvxmtrx/idris2) - A dependently typed programming language
-* [fe](https://github.com/ftrvxmtrx/fe) - A tiny, embeddable Lisp-like language
+* [Idris 2](https://git.sr.ht/~ft/idris2) - A dependently typed programming language
+* [fe](https://git.sr.ht/~ft/fe) - A tiny, embeddable Lisp-like language
 
 ## Libraries
 
 * [libtheme](https://bitbucket.org/mischief/libtheme) - A theming library for the plan 9 graphics system
-* [libtags](https://github.com/ftrvxmtrx/libtags) - A cross-platform library for reading tags
-* [microui](https://github.com/ftrvxmtrx/microui) - Tiny immediate-mode UI library
+* [libtags](https://git.sr.ht/~ft/libtags) - A cross-platform library for reading tags
+* [microui](https://git.sr.ht/~ft/microui) - Tiny immediate-mode UI library
 
 ## Forks
 
@@ -131,7 +131,7 @@ PR's welcome for all edits or new projects.
 
 ### Libraries
 
-* [c9](https://github.com/ftrvxmtrx/c9) - A low-lever 9p client and server implementation
+* [c9](https://git.sr.ht/~ft/c9) - A low-lever 9p client and server implementation
 
 ### Kernels
 
