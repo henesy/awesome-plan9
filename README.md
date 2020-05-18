@@ -132,7 +132,7 @@ PR's welcome for all edits or new projects.
 
 ### Libraries
 
-* [c9](https://git.sr.ht/~ft/c9) - A low-lever 9p client and server implementation
+* [c9](https://git.sr.ht/~ft/c9) - A low-level 9p client and server implementation
 
 ### Kernels
 
