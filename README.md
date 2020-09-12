@@ -25,7 +25,8 @@ PR's welcome for all edits or new projects.
 
 ## Resources
 
-* []() -
+* [Modding Rio](https://wiki.xxiivv.com/site/rio.html) - Tutorials on how to add a wallpaper and change colors.
+* [Plan 9 GUI Examples](https://wiki.xxiivv.com/site/plan9_c.html) - Tutorials to learn about GUI development on Plan9.
 
 ### Blogs
 
@@ -79,6 +80,7 @@ PR's welcome for all edits or new projects.
 ### Graphics
 
 * [whiteboardfs](https://git.sr.ht/~amavect/whiteboardfs) - A collaborative drawing file system
+* [Moogle](https://wiki.xxiivv.com/site/moogle.html) - A simple 3D wireframe editor
 
 ### Audio/music
 
