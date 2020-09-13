@@ -89,6 +89,7 @@ PR's welcome for all edits or new projects.
 * [ytfs](https://github.com/majiru/ytfs) - File system for playing youtube audio
 * [orca](https://git.sr.ht/~ft/orca) - Live Programming Environment
 * [neindaw](https://git.sr.ht/~ft/neindaw) - DAW for Plan 9
+* [treason](https://git.sr.ht/~ft/treason) Video player
 
 ### Languages
 
