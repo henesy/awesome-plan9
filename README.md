@@ -2,17 +2,17 @@
 
 A curated list of awesome Plan9 (and sometimes 9p) libraries and software.
 
-_Note_: Generally when referring to "Plan9" this document really means 9front.
+> Generally when referring to "Plan9" this document really means 9front.
 
-9p.io links are accessible over 9p as well. On 9front you can run `9fs 9pio` as a shortcut. 
+9p.io links are accessible over 9p as well. On 9front you can run `9fs 9pio` as a shortcut.
 
-Many of the applications listed here are available under the 9front [ports tree](https://code.9front.org/hg/ports). 
+Many of the applications listed here are available under the 9front [ports tree](https://code.9front.org/hg/ports).
 
 ### Contributing
 
 Please do.
 
-PR's welcome for all edits or new projects. 
+PR's welcome for all edits or new projects.
 
 ### Contents
 
