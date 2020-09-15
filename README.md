@@ -19,6 +19,7 @@ PR's welcome for all edits or new projects.
 - [Awesome Plan9](#awesome-plan9)
   - [Resources](#resources)
   - [Applications](#applications)
+  - [Languages](#languages)
   - [Libraries](#libraries)
   - [Forks](#forks)
   - [Influenced by Plan9](#influenced-by-plan9)
@@ -91,7 +92,7 @@ PR's welcome for all edits or new projects.
 * [ytfs](https://github.com/majiru/ytfs) - File system for playing youtube audio
 * [zuke](https://git.sr.ht/~ft/zuke) - Music player
 
-### Languages
+## Languages
 
 *Languages which are known to be buildable/operational on Plan9.*
 
