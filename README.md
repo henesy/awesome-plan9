@@ -110,7 +110,7 @@ PR's welcome for all edits or new projects.
 ## Libraries
 
 * [libtags](https://git.sr.ht/~ft/libtags) - A cross-platform library for reading tags
-* [libtheme](https://bitbucket.org/mischief/libtheme) - A theming library for the plan 9 graphics system
+* [libtheme](https://github.com/Plan9-Archive/libtheme) - A theming library for the plan 9 graphics system
 * [microui](https://git.sr.ht/~ft/microui) - Tiny immediate-mode UI library
 
 ## Forks
