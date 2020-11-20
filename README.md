@@ -37,6 +37,7 @@ PR's welcome for all edits or new projects.
 
 * [cat-v](http://cat-v.org)
 * [9p.mom/f](http://9p.mom/f) - Files for hacking together bootable things without easy access to a 9front system
+* gemini://9til.de - Gemini capsule with many resources, including good beginner's guides ([web proxy](https://portal.mozz.us/gemini/9til.de/))
 
 ### Papers
 
