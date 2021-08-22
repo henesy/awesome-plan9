@@ -40,7 +40,9 @@ PR's welcome for all edits or new projects.
 
 ### Papers
 
-* []() -
+* [Plan 9 From Bell Labs](https://9p.io/sys/doc/9.pdf) - Overview of the Plan9 system itself
+* [Security in Plan 9](https://9p.io/sys/doc/auth.pdf) - Overview of the security architecture of Plan9
+
 
 ### Manuals
 
