@@ -71,7 +71,7 @@ PR's welcome for all edits or new projects.
 ### Utilities
 
 * [color9](https://wiki.xxiivv.com/site/plan9_color.html) - Color picker
-* [disco](https://bitbucket.org/henesy/disco) - Discord client
+* [disco](https://github.com/henesy/disco) - Discord client
 * [fontsel](https://git.sr.ht/~ft/fontsel) - Font selector
 * [git9](https://github.com/oridb/git9) - Git implementation
 * [unionfs](https://github.com/okvik/unionfs) - Deep union file server
@@ -106,7 +106,7 @@ PR's welcome for all edits or new projects.
 * [Myrddin](https://bitbucket.org/oridb/mc) - Systems language by Ori Bernstein
 * [Ocaml](http://caml.inria.fr/pub/distrib/ocaml-4.07/ocaml-4.07.1.tar.gz) - Ocaml
 * [Scheme 9](http://t3x.org/s9fes/s9fes-20180823.tgz) - Scheme 9 from Empty Space
-* [Squeak](https://bitbucket.org/henesy/squeak) - Squeak/Smalltalk from de0u/squeak
+* [Squeak](https://github.com/henesy/squeak) - Squeak/Smalltalk from de0u/squeak
 * [Tcl](https://9p.io/sources/contrib/fgb/root/sys/src/cmd/tcl/) - Tcl port by fgb
 * [TinyScheme](https://download.sourceforge.net/tinyscheme/tinyscheme-1.41.tar.gz) - TinyScheme
 
@@ -119,8 +119,7 @@ PR's welcome for all edits or new projects.
 ## Forks
 
 * [9ants](http://9gridchan.org/) - Mycroftiv's fork (of 9front) featuring a modified kernel and custom namespace control tooling
-* [9atom (deprecated?)](http://www.9atom.org/) - Erik Quanstrom's fork
-  * [Mirrored 9atom installers](http://mirror.postnix.pw/9atom/INSTALLERS/)
+* [9atom (deprecated?)](http://mirror.postnix.pw/9atom/INSTALLERS/) - Erik Quanstrom's fork (mirror)
 * [9front](http://9front.org/) - Fork featuring new protocols, file systems, and greatly expanded hardware support
 * [9legacy](http://9legacy.org/) - Fork which continues maintaining a Bell Labs-like source base
   * [9pi](https://9p.io/sources/contrib/miller/) - Port of 9legacy to the Raspberry Pi
@@ -149,7 +148,7 @@ PR's welcome for all edits or new projects.
 
 ### Operating Systems
 
-* [Akaros](http://www.akaros.org/akaros-web/news.php) - Support for parallel and high-performance applications and to scale to a large number of cores
+* [Akaros](http://www.akaros.org) - Support for parallel and high-performance applications and to scale to a large number of cores
 * [Inferno](http://www.vitanuova.com/inferno/) - Register-oriented virtual machine operating system which can run natively and hosted, leverages 9p heavily as "styx"
-* [Interim](http://interim.mntmn.com/) - Minimal operating system featuring a lisp environment (everything is a file is a symbol)
+* [Interim](https://github.com/mntmn/interim) - Minimal operating system featuring a lisp environment (everything is a file is a symbol)
 * [Redox](https://www.redox-os.org/) - A Unix-like operating system written in Rust
