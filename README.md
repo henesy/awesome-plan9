@@ -65,6 +65,7 @@ PR's welcome for all edits or new projects.
 ### Talks
 
 * [The Name Game](https://youtu.be/3d1SHOCCDn0) - Talk on Plan9 and Inferno by Charles Forsyth
+* [Plan 9: Not Dead, Just Resting](https://youtu.be/6m3GuoaxRNM) - Talk on Plan9 and 9front by Ori Bernstein
 
 ## Applications
 
