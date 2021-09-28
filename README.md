@@ -27,8 +27,8 @@ PR's welcome for all edits or new projects.
 ## Resources
 
 * [Modding Rio](https://wiki.xxiivv.com/site/rio.html) - Tutorials on how to add a wallpaper and change colors.
-* [Plan 9 GUI Examples](https://wiki.xxiivv.com/site/plan9_c.html) - Tutorials to learn about GUI development on Plan9.
-
+* [Plan9 GUI Examples](https://wiki.xxiivv.com/site/plan9_c.html) - Tutorials to learn about GUI development on Plan9.
+* [Plan9 Desktop Guide](https://pspodcasting.net/dan/blog/2019/plan9_desktop.html) - a all in one guide to get started with Plan9.
 ### Blogs
 
 * []() -
