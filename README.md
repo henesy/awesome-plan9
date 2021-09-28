@@ -38,7 +38,7 @@ PR's welcome for all edits or new projects.
 * [cat-v](http://cat-v.org)
 * [9p.mom/f](http://9p.mom/f) - Files for hacking together bootable things without easy access to a 9front system
 * [NOPE NOPE NOPE](http://nopenopenope.net/) - qwx's site with 9front usage tips and software
-* [Plan 9 Desktop Guide](https://pspodcasting.net/dan/blog/2019/plan9_desktop.html) - Excellent guide to setting up Plan9/9front for desktop usage
+
 
 ### Papers
 
