@@ -102,7 +102,7 @@ PR's welcome for all edits or new projects.
 
 *Languages which are known to be buildable/operational on Plan9.*
 
-* [fe](https://git.sr.ht/~ft/fe) - A tiny, embeddable Lisp-like language
+* [aa](https://git.sr.ht/~ft/aa) - A tiny, embeddable Lisp-like language
 * [Go](https://golang.org/) - The Go programming language
 * [Idris 2](https://www.idris-lang.org/pages/download.html) - A dependently typed programming language
 * [Lua](http://download.redis.io/releases/redis-3.0.1.tar.gz) - Lua from Redis
