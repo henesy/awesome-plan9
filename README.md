@@ -104,11 +104,11 @@ PR's welcome for all edits or new projects.
 
 * [fe](https://git.sr.ht/~ft/fe) - A tiny, embeddable Lisp-like language
 * [Go](https://golang.org/) - The Go programming language
-* [Idris 2](https://git.sr.ht/~ft/idris2) - A dependently typed programming language
+* [Idris 2](https://www.idris-lang.org/pages/download.html) - A dependently typed programming language
 * [Lua](http://download.redis.io/releases/redis-3.0.1.tar.gz) - Lua from Redis
-* [Myrddin](https://bitbucket.org/oridb/mc) - Systems language by Ori Bernstein
+* [Myrddin](https://myrlang.org/) - Systems language by Ori Bernstein
 * [Ocaml](http://caml.inria.fr/pub/distrib/ocaml-4.07/ocaml-4.07.1.tar.gz) - Ocaml
-* [Scheme 9](http://t3x.org/s9fes/s9fes-20180823.tgz) - Scheme 9 from Empty Space
+* [Scheme 9](https://t3x.org/s9fes/) - Scheme 9 from Empty Space
 * [Squeak](https://github.com/henesy/squeak) - Squeak/Smalltalk from de0u/squeak
 * [Tcl](https://9p.io/sources/contrib/fgb/root/sys/src/cmd/tcl/) - Tcl port by fgb
 * [TinyScheme](https://download.sourceforge.net/tinyscheme/tinyscheme-1.41.tar.gz) - TinyScheme
