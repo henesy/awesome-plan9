@@ -103,6 +103,8 @@ PR's welcome for all edits or new projects.
 * [Go](https://golang.org/) - The Go programming language
 * [Idris 2](https://www.idris-lang.org/pages/download.html) - A dependently typed programming language
 * [Lua](http://download.redis.io/releases/redis-3.0.1.tar.gz) - Lua from Redis
+* [Lua (lu9)](https://sr.ht/~kvik/lu9/) - Lua from kvik
+* [Fennel](https://fennel-lang.org/) - Fennel via lu9 (thanks grimmware)
 * [Myrddin](https://myrlang.org/) - Systems language by Ori Bernstein
 * [Ocaml](http://caml.inria.fr/pub/distrib/ocaml-4.07/ocaml-4.07.1.tar.gz) - Ocaml
 * [Scheme 9](https://t3x.org/s9fes/) - Scheme 9 from Empty Space
