@@ -94,6 +94,7 @@ PR's welcome for all edits or new projects.
 * [treason](https://git.sr.ht/~ft/treason) - Video player
 * [ytfs](https://github.com/majiru/ytfs) - File system for playing youtube audio
 * [zuke](https://git.sr.ht/~ft/zuke) - Music player
+* [wrec](https://git.sr.ht/~ft/wrec) - Screen and window recorder
 
 ## Languages
 
