@@ -98,26 +98,38 @@ PR's welcome for all edits or new projects.
 
 ## Languages
 
-*Languages which are known to be buildable/operational on Plan9.*
+*Languages which are known to be buildable/operational on Plan 9.*
 
 * [aa](https://git.sr.ht/~ft/aa) - A tiny, embeddable Lisp-like language
+* [c4](https://github.com/henesy/c4) - C in 4 functions
+* [cfront](http://www.quintile.net/plan9/c++/index.html) - Archaic C++ pre-compiler
+* [clox9](https://github.com/henesy/clox9) -  Port of Nystrom's clox implementation of the Lox language to Plan9 
 * [Go](https://golang.org/) - The Go programming language
+* [Hugs](https://9p.io/wiki/plan9/Contrib_index/index.html) - Haskell98 interpreter
 * [Idris 2](https://www.idris-lang.org/pages/download.html) - A dependently typed programming language
 * [Lua](http://download.redis.io/releases/redis-3.0.1.tar.gz) - Lua from Redis
-* [Lua (lu9)](https://sr.ht/~kvik/lu9/) - Lua from kvik
-* [Fennel](https://fennel-lang.org/) - Fennel via lu9 (thanks grimmware)
+    * [Lua (lu9)](https://sr.ht/~kvik/lu9/) - Lua from kvik
+    * [Fennel](https://fennel-lang.org/) - Fennel via lu9 (thanks grimmware)
+    * [Lua (5.0.2)](https://9p.io/wiki/plan9/Contrib_index/index.html) Lua for APE
 * [Myrddin](https://myrlang.org/) - Systems language by Ori Bernstein
+* [nhc98](https://9p.io/sources/contrib/fernan/nhc98/) - Haskell compiler
 * [Ocaml](http://caml.inria.fr/pub/distrib/ocaml-4.07/ocaml-4.07.1.tar.gz) - Ocaml
+* [Perl](9p.io/sources/extra/perl.iso.bz2) - Perl
+* [Python 2](http://git.9front.org/plan9front/pyhg/HEAD/info.html)
 * [Scheme 9](https://t3x.org/s9fes/) - Scheme 9 from Empty Space
+* [sxm](https://9p.io/wiki/plan9/Contrib_index/index.html) - The sxm scheme language
 * [Squeak](https://github.com/henesy/squeak) - Squeak/Smalltalk from de0u/squeak
 * [Tcl](https://9p.io/sources/contrib/fgb/root/sys/src/cmd/tcl/) - Tcl port by fgb
 * [TinyScheme](https://download.sourceforge.net/tinyscheme/tinyscheme-1.41.tar.gz) - TinyScheme
+* [UMB Scheme](https://9p.io/wiki/plan9/Contrib_index/index.html) - UMB Scheme
+* [uxn](https://sr.ht/~rabbits/uxn/) - A small stack machine
 
 ## Libraries
 
 * [libtags](https://git.sr.ht/~ft/libtags) - A cross-platform library for reading tags
 * [libtheme](https://github.com/Plan9-Archive/libtheme) - A theming library for the plan 9 graphics system
 * [microui](https://git.sr.ht/~ft/microui) - Tiny immediate-mode UI library
+* [npe](https://shithub.us/sigrid/npe/HEAD/info.html) A native porting environment for POSIX software
 
 ## Forks
 
@@ -126,7 +138,9 @@ PR's welcome for all edits or new projects.
 * [9front](http://9front.org/) - Fork featuring new protocols, file systems, and greatly expanded hardware support
 * [9legacy](http://9legacy.org/) - Fork which continues maintaining a Bell Labs-like source base
   * [9pi](https://9p.io/sources/contrib/miller/) - Port of 9legacy to the Raspberry Pi
+* [Harvey](https://harvey-os.org/) - An MIT-licensed OS based on Plan 0
 * [Jehanne](http://jehanne.io/) - Giacomo Tesio's fork
+* [Nix (deprecated)](https://lsub.org/nix/) - A fork of Plan 9 focused on high performance parallel cloud computing
 
 ## Influenced by Plan9
 
