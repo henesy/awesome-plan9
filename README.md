@@ -80,6 +80,7 @@ PR's welcome for all edits or new projects.
 ### Editors
 
 * [9vim](https://vmsplice.net/9vim.html) - A port of vim to Plan9
+    * [Phil9's fork](http://shithub.us/phil9/vim/HEAD/info.html) - A version with additional features and bug fixes 
 
 ### Graphics
 
@@ -102,11 +103,12 @@ PR's welcome for all edits or new projects.
 
 * [aa](https://git.sr.ht/~ft/aa) - A tiny, embeddable Lisp-like language
 * [c4](https://github.com/henesy/c4) - C in 4 functions
-* [cfront](http://www.quintile.net/plan9/c++/index.html) - Archaic C++ pre-compiler
+* [cfront](http://www.quintile.net/plan9/c++/index.html) - Archaic C++ pre-compiler 
+* [Chibi Scheme](https://github.com/ashinn/chibi-scheme) - A small embeddable scheme implementation 
 * [clox9](https://github.com/henesy/clox9) -  Port of Nystrom's clox implementation of the Lox language to Plan9 
 * [Go](https://golang.org/) - The Go programming language
 * [Hugs](https://9p.io/wiki/plan9/Contrib_index/index.html) - Haskell98 interpreter
-* [Idris 2](https://www.idris-lang.org/pages/download.html) - A dependently typed programming language
+* [Idris 2](https://git.sr.ht/~ft/idris2) - A dependently typed programming language, pre-alpha port
 * [Lua](http://download.redis.io/releases/redis-3.0.1.tar.gz) - Lua from Redis
     * [Lua (lu9)](https://sr.ht/~kvik/lu9/) - Lua from kvik
     * [Fennel](https://fennel-lang.org/) - Fennel via lu9 (thanks grimmware)
