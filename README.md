@@ -103,7 +103,8 @@ PR's welcome for all edits or new projects.
 
 * [aa](https://git.sr.ht/~ft/aa) - A tiny, embeddable Lisp-like language
 * [c4](https://github.com/henesy/c4) - C in 4 functions
-* [cfront](http://www.quintile.net/plan9/c++/index.html) - Archaic C++ pre-compiler
+* [cfront](http://www.quintile.net/plan9/c++/index.html) - Archaic C++ pre-compiler 
+* [Chibi Scheme](https://github.com/ashinn/chibi-scheme) - A small embeddable scheme implementation 
 * [clox9](https://github.com/henesy/clox9) -  Port of Nystrom's clox implementation of the Lox language to Plan9 
 * [Go](https://golang.org/) - The Go programming language
 * [Hugs](https://9p.io/wiki/plan9/Contrib_index/index.html) - Haskell98 interpreter
