@@ -141,7 +141,7 @@ PR's welcome for all edits or new projects.
 * [9legacy](http://9legacy.org/) - Fork which continues maintaining a Bell Labs-like source base
   * [9pi](https://9p.io/sources/contrib/miller/) - Port of 9legacy to the Raspberry Pi
 * [Harvey](https://harvey-os.org/) - An MIT-licensed OS based on Plan 0
-* [Jehanne](http://jehanne.io/) - Giacomo Tesio's fork
+* [JehanneOS](http://jehanne.h--k.it/) - Giacomo Tesio's fork ([Gitea home](https://gitea.it/JehanneOS/jehanne))
 * [Nix (deprecated)](https://lsub.org/nix/) - A fork of Plan 9 focused on high performance parallel cloud computing
 
 ## Influenced by Plan9
