@@ -100,8 +100,8 @@ PR's welcome for all edits or new projects.
 ## Languages
 
 *Languages which are known to be buildable/operational on Plan 9.*
-
 * [aa](https://git.sr.ht/~ft/aa) - A tiny, embeddable Lisp-like language
+* [APL](https://apl.pmikkelsen.com/) – Primitive APL Implementation
 * [c4](https://github.com/henesy/c4) - C in 4 functions
 * [cfront](http://www.quintile.net/plan9/c++/index.html) - Archaic C++ pre-compiler 
 * [Chibi Scheme](https://github.com/ashinn/chibi-scheme) - A small embeddable scheme implementation 
