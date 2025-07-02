@@ -130,6 +130,7 @@ PR's welcome for all edits or new projects.
 
 * [libtags](https://git.sr.ht/~ft/libtags) - A cross-platform library for reading tags
 * [libtheme](https://github.com/Plan9-Archive/libtheme) - A theming library for the plan 9 graphics system
+* [libutf](https://github.com/cls/libutf) - Plan 9 compatible UTF-8 C library
 * [microui](https://git.sr.ht/~ft/microui) - Tiny immediate-mode UI library
 * [npe](https://shithub.us/sigrid/npe/HEAD/info.html) A native porting environment for POSIX software
 
