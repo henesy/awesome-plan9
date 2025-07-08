@@ -164,7 +164,8 @@ PR's welcome for all edits or new projects.
 
 ### Kernels
 
-* [plan_rust](https://github.com/TheEnbyperor/plan_rust) - Plan9-influenced kernel in Rust
+* [plan_rust](https://github.com/TheEnbyperor/plan_rust) - Plan9-influenced kernel in Rust (2019-2019)
+* [R9](https://github.com/r9os/r9) - R9 is a reimplementation of the plan9 kernel in Rust (2022-present)
 
 ### Operating Systems
 
