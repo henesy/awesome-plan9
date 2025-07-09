@@ -153,6 +153,7 @@ PR's welcome for all edits or new projects.
 * [editor](https://github.com/jmigpin/editor) - An acme-inspired, full-featured, editor in Go
 * [edwood](https://github.com/rjkroege/edwood) - An acme-inspired editor in Go
 * [sam](https://github.com/deadpixi/sam) - A fork of the unix sam(1) and samterm(1) with extensive extensibility
+* [anvil](https://anvil-editor.net) - An acme-inspired editor in Go
 
 ### Utilities
 
