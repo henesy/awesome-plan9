@@ -154,10 +154,12 @@ PR's welcome for all edits or new projects.
 * [edwood](https://github.com/rjkroege/edwood) - An acme-inspired editor in Go
 * [sam](https://github.com/deadpixi/sam) - A fork of the unix sam(1) and samterm(1) with extensive extensibility
 * [anvil](https://anvil-editor.net) - An acme-inspired editor in Go
+* [Vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 
 ### Utilities
 
 * [mk](https://github.com/dcjones/mk) - A rewrite and partial re-imagining of mk(1) in Go
+* [sregx](https://github.com/zyedidia/sregx) - A tool and library for using structural regular expressions
 
 ### Libraries
 
