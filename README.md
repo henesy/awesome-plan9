@@ -154,6 +154,7 @@ PR's welcome for all edits or new projects.
 * [edwood](https://github.com/rjkroege/edwood) - An acme-inspired editor in Go
 * [sam](https://github.com/deadpixi/sam) - A fork of the unix sam(1) and samterm(1) with extensive extensibility
 * [anvil](https://anvil-editor.net) - An acme-inspired editor in Go
+* [ad](https://github.com/sminez/ad) - An acme-inspired modal editor
 * [Vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 
 ### Utilities
