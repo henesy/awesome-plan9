@@ -76,6 +76,7 @@ PR's welcome for all edits or new projects.
 * [git9](https://github.com/oridb/git9) - Git implementation
 * [unionfs](https://github.com/okvik/unionfs) - Deep union file server
 * [xmpp](https://git.sr.ht/~ft/xmpp) - XMPP client
+* [hell](https://hell.limitedideas.org) - Mastodon client
 
 ### Editors
 
